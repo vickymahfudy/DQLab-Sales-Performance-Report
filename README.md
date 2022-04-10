@@ -6,4 +6,4 @@ DQLab collaborates with Nelda Ampulembang Parenta, a Senior Data Analyst Logisly
 
 Since I have finished this project using SQL on their platform, I would like to do it again using python by implementing **pandas** library for **data exploratory**. I will also create a **data visualization** of the obtained data using **matplotlib** library.
 
-Go to DQLabSalesPerformanceReport.ipynb to view my work.
+Go to **DQLabSalesPerformanceReport.ipynb** to view my work.
